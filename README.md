@@ -63,7 +63,7 @@ This image shows the raw transaction records before processing and cleaning.
 ### 📊 Gender-Based Purchase Summary by Product Category
 A SQL summary showing how purchases vary across product categories for male and female customers.
 
-![Gender-Category Summary](Screenshot%202025-05-21%20162519.png)
+![Gender-Category Summary]![Screenshot 2025-05-21 162519](https://github.com/user-attachments/assets/80d1898c-55f8-403b-85df-8a5927f8f1ba)
 
 ---
 
