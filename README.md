@@ -56,7 +56,7 @@ The company is currently unable to answer critical questions such as:
 ### 📄 Raw Transaction Dataset Snapshot
 This image shows the raw transaction records before processing and cleaning.
 
-![Raw Data - Excel](Screenshot%202025-05-21%20173526.png)
+![Raw Data - Excel](![image](https://github.com/user-attachments/assets/24fb9a57-076a-475e-a122-9bd17f377745))
 
 ---
 
